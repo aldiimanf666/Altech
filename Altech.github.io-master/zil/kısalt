@@ -1,0 +1,1 @@
+ffmpeg -ss 0 -t 40 -i Halka-Terzi.m4a aHalka-Terzi.m4a

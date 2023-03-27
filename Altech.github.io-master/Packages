@@ -1,0 +1,489 @@
+Package: com.beylem.ZilSesleri-Arvb
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-Arvb.deb
+Size: 405844
+Installed-Size: 404
+MD5sum: 9268ca7d1583473fc9eaa32edc2350e5
+Description: Arvb Zil Sesi
+Name: Arvb Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/arvb/index.html
+
+Package: com.beylem.ZilSesleri-Despasito
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-despasito.deb
+Size: 395266
+Installed-Size: 388.5
+MD5sum: 5ab31c6824b559c481359ac7c5f148c3
+Description: Despasto Zil Sesi
+Name: Despasto Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
+Package: com.beylem.ZilSesleri-Galatasaray-Intikam-Marsi
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-Galatasaray-Intikam-Marsi.deb
+Size: 465890
+Installed-Size: 464
+MD5sum: 2c08cb8cc5b2dfea42a1790f51deae89
+Description: Galatasaray-Intikam-Marsi Zil Sesi
+Name: Galatasaray-Intikam-Marsi Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/gsintikam/index.html
+
+Package: com.beylem.ZilSesleri-Hakan-Akkus
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-Hakan-Akkus.deb
+Size: 487386
+Installed-Size: 544
+MD5sum: 6d542bd9a4a94213d9fd7ee6738a105f
+Description: Hakan-Akkus Zil Sesi
+Name: Hakan-Akkus Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
+Package: com.beylem.ZilSesleri-LaiklikEldenGidiYeah
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-LaiklikEldenGidiYeah.deb
+Size: 610060
+Installed-Size: 3700
+MD5sum: 5822b895bc707306c4a2ee646a9a0142
+Description: LaiklikEldenGidiYeah Zil Sesi
+Name: LaiklikEldenGidiYeah Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
+Package: com.beylem.ZilSesleri-Mozart-Turk-Marsi
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-Mozart-Türk-Marşı.deb
+Size: 445898
+Installed-Size: 504
+MD5sum: f9a16019ecb3d2bec3b5e4f462ca8883
+Description: Mozart-Türk-Marşı Zil Sesi
+Name: Mozart-Türk-Marşı Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
+Package: com.beylem.ZilSesleri-TokyoDrift
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-tokyo-drift.deb
+Size: 351416
+Installed-Size: 356
+MD5sum: 63dbf158c7691b8634cf550ec8072c21
+Description: Tokyo Drift Zil Sesi
+Name: Tokyo Drift Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
+Package: com.beylem.ZilSesleri-Tr-marsi
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-Türk-Marsi.deb
+Size: 445930
+Installed-Size: 504
+MD5sum: 7500b103e3d9f81ba57b900719691b86
+Description: Türk Marşı Zil Sesi
+Name: Türk Marsi Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/trmarsi/index.html
+
+Package: com.beylem.ZilSesleri-dhoom-dhoom
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-dhoom-dhoom.deb
+Size: 368616
+Installed-Size: 368
+MD5sum: 5fcade7e9243f365a49e61521807d764
+Description: dhoom-dhoom Zil Sesi
+Name: dhoom-dhoom Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/dhoom/index.html
+
+Package: com.beylem.ZilSesleri-dr-dre-still
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-drdre.deb
+Size: 1307266
+Installed-Size: 1300
+MD5sum: f9fd774d95060aafa30868a3afa8efea
+Description: Dr Dree Still Zil Sesi
+Name: Dr Dree Still Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
+Package: com.beylem.ZilSesleri-huawei-reklam
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-huawei-reklam.deb
+Size: 334680
+Installed-Size: 336
+MD5sum: e5a4608213ab8229b65e6b47e8a30955
+Description: huawei-reklam Zil Sesi
+Name: huawei-reklam Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/huawei/index.html
+
+Package: com.beylem.ZilSesleri-kent
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-kent.deb
+Size: 1563672
+Installed-Size: 1552
+MD5sum: d1615d63e4294507ac7e8d654688c524
+Description: kent Zil Sesi
+Name: kent Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/kent/index.html
+
+Package: com.beylem.ZilSesleri-plevne-marimba
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-plevne-marimba.deb
+Size: 442350
+Installed-Size: 532
+MD5sum: 8e114cc6b12343bf4aaa5cce98be71a6
+Description: plevne-marimba Zil Sesi
+Name: plevne-marimba Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/plevne/index.html
+
+Package: com.beylem.ZilSesleri-shapeofyou
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-shapeofyou.deb
+Size: 352982
+Installed-Size: 356
+MD5sum: d400d0725f641e85bde00a66328d166e
+Description: shapeofyou Zil Sesi
+Name: shapeofyou Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/shapeofyou/index.html
+
+Package: com.beylem.zilsesleri-Halka-Terzi
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: com.unlimapps.toneenabler
+Architecture: iphoneos-arm
+Filename: debs/com.beylem.zilsesleri-Halka-Terzi.deb
+Size: 610334
+Installed-Size: 651
+MD5sum: a56416285f96d220258900be0d222028
+Description: Halka Terzi Zil Sesi
+Name: Halka Terzi Zil Sesi
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+Depiction: https://validaliy.github.io/depic/HalkaTerzi/index.html
+
+Package: com.pxcex.camera360hack
+Version: 0.0.4
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.camera360hack_0.0.3_iphoneos-arm.deb
+Size: 117188
+Installed-Size: 384
+MD5sum: c78fb431c9b7d7bca79202b5c1111c38
+Description: VIP Lifetime!
+Name: Camera360 Hack
+Author: pxcex
+
+Package: com.pxcex.enlightpixaloophack
+Version: 2.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.enlightpixaloophack_2.0.1_iphoneos-arm.deb
+Size: 82996
+Installed-Size: 304
+MD5sum: 1501149fc31da77ce0641fa7d1770b1e
+Description: Unlock One Time Purchase for Free.
+Name: Enlight Pixaloop Hack
+Author: pxcex
+
+Package: com.pxcex.enlightquickshot
+Version: 0.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.enlightquickshot_0.0.1_iphoneos-arm.deb
+Size: 78754
+Installed-Size: 272
+MD5sum: 3f7fcc3b0af6502eba235e5e42dec44d
+Description: Unlimited Access.
+Name: Enlight Quickshot Hack
+Author: pxcex
+
+Package: com.pxcex.enlightvideoleaphack
+Version: 0.0.2
+Section: Premium
+Maintainer: valdaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.enlightvideoleaphack_0.0.1_iphoneos-arm.deb
+Size: 78744
+Installed-Size: 272
+MD5sum: 43c6587806a6ed9d17f8f0146680eeb3
+Description: Free Unlimited Access.
+Name: Enlight Videoleap Hack
+Author: pxcex
+Depiction: https://paxcex.github.io/depictions/com.pxcex.enlightvideoleaphack/index.html
+
+Package: com.pxcex.enloghtphotofoxpro
+Version: 0.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.enloghtphotofoxpro_0.0.1_iphoneos-arm.deb
+Size: 78728
+Installed-Size: 272
+MD5sum: 7cf22dd603736a19a54ab3c1d1356cf4
+Description: Free Unlimited access.
+Name: Enlight Photofox Pro
+Author: pxcex
+
+Package: com.pxcex.facetunevip
+Version: 2.0.1
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.facetunevip_2.0.0.deb
+Size: 113954
+Installed-Size: 384
+MD5sum: b0325618079d91630cde6ee9faf37150
+Description: VIP Subscription Lifetime!
+Name: Facetune2 VIP
+Author: pxcex
+
+Package: com.pxcex.hexatechhack
+Version: 0.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.hexatechhack_0.0.1_iphoneos-arm.deb
+Size: 5100
+Installed-Size: 152
+MD5sum: a511e3749da9b6ea2ce65e5525f31964
+Description: Hexatech Unlimited VPN Proxy Premium!
+Name: Hexatech VPN Hack
+Author: pxcex
+
+Package: com.pxcex.musixmatchpremium
+Version: 1.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.musixmatchpremium_1.0.1_iphoneos-arm.deb
+Size: 84322
+Installed-Size: 288
+MD5sum: e2b9e4bda699195583676fbd0158c686
+Description: Musixmatch Party Mode & Premium Subscribtion.
+Name: Musixmatch Premium
+Author: pxcex
+
+Package: com.pxcex.picsarthack
+Version: 0.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcex.picsarthack_0.0.1.deb
+Size: 82032
+Installed-Size: 288
+MD5sum: 8f7bfccfb42b84c2acf494198e7668f1
+Description: PicsArt Gold.
+Name: PicsArt Hack
+Author: pxcex
+
+Package: com.pxcexbetternethack
+Version: 0.0.6
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.pxcexbetternethack_0.0.5_iphoneos-arm.deb
+Size: 84200
+Installed-Size: 288
+MD5sum: c27b813a6ef28a7688930efc08237e1b
+Description: Best vpn proxy Betternet Premium For Free
+Name: Betternet Premium Hack
+Author: pxcex
+
+Package: com.reporthack
+Version: 0.0.2
+Section: Premium
+Maintainer: validaliy
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.reporthack_0.0.1_iphoneos-arm.deb
+Size: 81434
+Installed-Size: 256
+MD5sum: 015ce82e2f45493dca9b5124340ee82e
+Description: InstaReport Pro Life Time!
+Name: Reports+ For Instagram Hack
+Author: pxcex
+
+Package: com.validaliy.TrYama.HomeGesture
+Version: 1.0
+Section: Türkçe Yama
+Maintainer: Validaliy <validaliy63@gmail.com>
+Depends: com.vitataf.homegesture
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.TrYama.HomeGesture.deb
+Size: 5438
+Installed-Size: 9.9
+MD5sum: c99d52e9116745e35372d4f2b04c7134
+Description: HomeGesture Türkçe yama
+Name: HomeGesture TR Yama
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Depiction: https://validaliy.github.io/depic/index.html?p=HomeGestureTrYama
+
+Package: com.validaliy.XGPSFree-tr-yama
+Version: 1.0
+Section: Türkçe Yama
+Maintainer: validaliy <validaliy63@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.XGPSFree-tr-yama.deb
+Size: 6172
+Installed-Size: 11.9
+MD5sum: 3cde74692c6f472f89df0d375aca7280
+Description: Sahte konum  Türkçe dil dosyası tinyapps.com
+Name: Fake GPS Tr Yama
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Depiction: https://validaliy.github.io/depic/index.html?p=FakegpsTrYama
+
+Package: com.validaliy.autotouch-tr-yama
+Version: 1.0
+Section: Türkçe Yama
+Maintainer: Validaliy <validaliy63@gmail.com>
+Depends: me.autotouch.autotouch.ios8
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.autotouch-tr-yama.deb
+Size: 8234
+Installed-Size: 15.7
+MD5sum: 1218d400ae78dccb7e20396319f2ede9
+Description: AutoTouch Türkçe yama
+Name: AutoTouch Türkçe yama
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Depiction: https://validaliy.github.io/depic/index.html?p=AutoTouchTrYama
+
+Package: com.validaliy.bittopla
+Version: 1.2
+Section: Addons (Autotouch)
+Maintainer: Validaliy
+Depends: cn.tinyapps.xgpsfree, me.autotouch.autotouch.ios8
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.bittopla.deb
+Size: 3156
+Installed-Size: 5
+MD5sum: c761dd2f9eb3608004278ac1d2c39935
+Description: Vodafone internet avcıları  otomatik bit toplama hack
+Name: İnternet Avcıları hack (bit toplama)
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Depiction: https://validaliy.github.io/depic/index.html?p=bittopla
+
+Package: com.validaliy.deezelife
+Version: 0.5
+Section: Premium
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.deezelife_0.5.deb
+Size: 46220
+MD5sum: 0b1a9f8bbaa67a21e19ee3a1bf068c9f
+Description: Deezer’i full yapar
+Name: Deezelife
+Author: julioverne <validaliy63@gmail.com>
+Depiction: https://validaliy.github.io/depic
+
+Package: com.validaliy.spotilife
+Version: 1.0a
+Section: Premium
+Maintainer: validaliy <validaliy63@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.spotilife_1.0a.deb
+Size: 92024
+MD5sum: 9ecfefd75c9057bd7ff5b17d8137a0a9
+Description: Spotify’i Full yapar
+Name: Spotilife
+Author: julioverne <validaliy63@gmail.com>
+
+Package: com.validaliy.zilsesleri.atesleoynama
+Version: 1.0
+Section: Ringtones
+Maintainer: validaliy <validaliy63@gmail.com>
+Architecture: iphoneos-arm
+Filename: debs/com.validaliy.zilsesleri.atesleoynama.deb
+Size: 1348884
+Installed-Size: 1367415
+MD5sum: 7b0e1afbf38858c7fdbba45414c9dba2
+Description: Sıla -Ateşle Oynama
+Name: Ateşle Oynama - Erol Evgin & Sıla
+Author: ibrahim Beylem <validaliy63@gmail.com>
+Homepage: validaliy.github.io
+
